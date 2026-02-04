@@ -25,4 +25,4 @@ You must have the following tools installed on your Linux system:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Mega-Silent-Scanner.git](https://github.com/YOUR_USERNAME/Mega-Silent-Scanner.git)
    cd Mega-Silent-Scanner
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjP7X9i9DqX9a/giphy.gif
+![Scanner Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjP7X9i9DqX9a/giphy.gif)
